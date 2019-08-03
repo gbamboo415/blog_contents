@@ -1,7 +1,7 @@
 links:
-- text: 'top'
-  href: '/?page=top'
-- text: 'ブログ'
-  href: '/?post'
-- text: '元サイト'
-  href: 'https://aotake91.net'
+    - text: 'top'
+      href: '/?page=top'
+    - text: 'ブログ'
+      href: '/?post'
+    - text: '元サイト'
+      href: 'https://aotake91.net'
