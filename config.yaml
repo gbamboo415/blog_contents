@@ -9,3 +9,8 @@ links:
       href: 'https://aotake91.yu-nagi.com'
     - text: '西鉄なんでもWiki'
       href: 'https://seesaawiki.jp/nishitetsu-fan/'
+sociallinks:
+    - icon: 'fa-twitter-square'
+      href: 'https://twitter.com/aotake91'
+    - icon: 'fa-github-square'
+      href: 'https://github.com/gbamboo415'
