@@ -1,6 +1,8 @@
+protocol: 'https:'
+host: 'blog.aotake91.net'
+sitetitle: '青竹雑記帖(N)'
+sitesubtitle: '青竹雑記帖、強化中。'
 links:
-    - text: 'top'
-      href: '/?page=top'
     - text: 'ブログ'
       href: '/?post'
     - text: '元サイト'
