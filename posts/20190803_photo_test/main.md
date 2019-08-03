@@ -1,3 +1,7 @@
+---
+Keywords: ブログ, bashcms2, 写真投稿テスト
+Copyright: (C) 2019 gbamboo415
+---
 # 写真投稿テスト
 ハンバーグの写真
 
