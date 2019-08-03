@@ -11,6 +11,15 @@ links:
       href: 'https://aotake91.yu-nagi.com'
     - text: '西鉄なんでもWiki'
       href: 'https://seesaawiki.jp/nishitetsu-fan/'
+    - text: '西鉄終夜運転・正月ダイヤ（過去情報）'
+      href: 'https://aotake91.net/nnr-newyear-allnight/'
+      sublinks:
+          - text: '2015.12.31終夜運転運用表'
+            href: 'https://aotake91.net/nnr-newyear-allnight/2015-12-31-allnight/'
+          - text: '西鉄終夜運転・正月ダイヤ2016'
+            href: 'https://aotake91.net/nnr-newyear-allnight/nnr-newyear2016/'
+          - text: '西鉄終夜運転・正月ダイヤ2017'
+            href: 'https://aotake91.net/nnr-newyear-allnight/nnr-newyear2017/'
 sociallinks:
     - icon: 'fa-twitter-square'
       href: 'https://twitter.com/aotake91'
