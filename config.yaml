@@ -21,13 +21,9 @@ sociallinks:
 - icon: 'fa-instagram'
   href: 'https://www.instagram.com/aotake91/?hl=ja'
 - icon: 'fa-mastodon'
-<<<<<<< HEAD
   href: 'https://mstdn.jp/@aotake91'
 - icon: 'fa-mastodon'
   href: 'https://raildon.online/@aotake91'
-=======
-  href: 'https://raildon.online/aotake91'
->>>>>>> 7e860643bbce2463ac3169ea263983019ada1e3e
 hatena: 'true'
 pocket: 'true'
 twitter: 'aotake91'
